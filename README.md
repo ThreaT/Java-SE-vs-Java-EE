@@ -5,4 +5,4 @@ Java SE 8  | Java EE 7
 [SQL](https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html)  | [Persistence](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html)
 [Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)  | [JMS](https://docs.oracle.com/javaee/7/api/javax/jms/package-summary.html)
 
-More need to be added. Contributions welcome.
+[More](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) need to be added. Contributions welcome.
