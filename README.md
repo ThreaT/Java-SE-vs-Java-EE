@@ -6,3 +6,4 @@ Java SE 8  | Java EE 7
 [Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)  | [JMS](https://docs.oracle.com/javaee/7/api/javax/jms/package-summary.html)
 [HttpServer](http://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/com/sun/net/httpserver/HttpServer.html), [JEP 198](http://openjdk.java.net/jeps/198), [SAX](https://docs.oracle.com/javase/8/docs/api/javax/xml/parsers/SAXParser.html), [DOM](https://docs.oracle.com/javase/8/docs/api/org/w3c/dom/package-summary.html) | [JAX-RS](http://docs.oracle.com/javaee/7/api/)
 [More](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) need to be added. Contributions welcome.
+
