@@ -6,7 +6,7 @@ Java SE (Core Developer Technologies) | Examples | Frameworks | Java EE (Enterpr
 [JEP 110](https://bugs.openjdk.java.net/browse/JDK-8042950)  | - | - | [Websocket](https://docs.oracle.com/javaee/7/api/javax/websocket/package-summary.html) | - | Tomcat
 [SQL](https://docs.oracle.com/javase/8/docs/api/java/sql/package-summary.html) | [view example](https://github.com/ThreaT/Java-SE-vs-Java-EE/tree/master/src/main/java/com/java/se/vs/java/ee/database) | sweven | [Persistence](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html) | - | Hibernate
 [Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)  | - | - | [JMS](https://docs.oracle.com/javaee/7/api/javax/jms/package-summary.html) | - | ActiveMQ
-- | - | - | [Faces](http://docs.oracle.com/javaee/7/api/javax/faces/package-frame.html) | - | -
+- | - | cathexis | [Faces](http://docs.oracle.com/javaee/7/api/javax/faces/package-frame.html) | - | -
 - | - | cathexis | [EL](http://docs.oracle.com/javaee/7/api/javax/el/package-summary.html) | - | Glassfish
 [JEP 198](http://openjdk.java.net/jeps/198), [SAX](https://docs.oracle.com/javase/8/docs/api/javax/xml/parsers/SAXParser.html), [DOM](https://docs.oracle.com/javase/8/docs/api/org/w3c/dom/package-summary.html) | - | - | [JAX-RS](http://docs.oracle.com/javaee/7/api/) | - | -
 
