@@ -11,4 +11,4 @@ Java SE (Core Developer Technologies) | Examples | Java EE (Enterprise Developer
 Core Framework | Implementations | Enterprise Frameworks | Implementations
 ------------- | ------------- | ------------- | -------------
 sweven | HttpServer, SQL | Spring MVC | Servlets, JMS, JAX-RS
-|| Hibernate | JPA
+- | - | Hibernate | JPA
