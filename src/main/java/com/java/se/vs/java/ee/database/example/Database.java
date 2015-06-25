@@ -1,4 +1,4 @@
-package com.java.se.database.example;
+package com.java.se.vs.java.ee.database.example;
 
 import java.io.File;
 import java.io.IOException;

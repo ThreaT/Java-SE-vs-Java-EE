@@ -1,4 +1,4 @@
-package com.java.se.webserver.example;
+package com.java.se.vs.java.ee.webserver.example;
 
 import java.io.IOException;
 import java.io.OutputStream;

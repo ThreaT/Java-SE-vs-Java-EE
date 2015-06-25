@@ -1,4 +1,4 @@
-Java SE 8 | Examples | Java EE 7 | Examples
+Java SE (Core Developer Technologies) | Examples | Java EE (Enterprise Developer Technologies) | Examples
 ------------- | ------------- | ------------- | -------------
 [HttpServer](http://docs.oracle.com/javase/8/docs/jre/api/net/httpserver/spec/com/sun/net/httpserver/HttpServer.html) | [view example](https://github.com/ThreaT/Java-SE-8-vs-Java-EE-7-Specifications/tree/master/src/main/java/com/java/se/webserver) | [Servlets](https://docs.oracle.com/javaee/7/api/javax/servlet/package-summary.html) | -
 [JEP 110](https://bugs.openjdk.java.net/browse/JDK-8042950)  | - | [Websocket](https://docs.oracle.com/javaee/7/api/javax/websocket/package-summary.html) | -
@@ -8,3 +8,7 @@ Java SE 8 | Examples | Java EE 7 | Examples
 
 [More](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) need to be added. Contributions welcome.
 
+Core Framework | Implementations | Enterprise Frameworks | Implementations
+------------- | ------------- | ------------- | -------------
+sweven | HttpServer, SQL | Spring MVC | Servlets, JMS, JAX-RS
+|| Hibernate | JPA
