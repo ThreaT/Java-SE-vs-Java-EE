@@ -8,7 +8,6 @@ Java SE (Core Developer Technologies) | Examples | Frameworks | Java EE (Enterpr
 [Queue](https://docs.oracle.com/javase/8/docs/api/java/util/Queue.html)  | - | - | [JMS](https://docs.oracle.com/javaee/7/api/javax/jms/package-summary.html) | - | ActiveMQ
 [JEP 198](http://openjdk.java.net/jeps/198), [SAX](https://docs.oracle.com/javase/8/docs/api/javax/xml/parsers/SAXParser.html), [DOM](https://docs.oracle.com/javase/8/docs/api/org/w3c/dom/package-summary.html) | - | - | [JAX-RS](http://docs.oracle.com/javaee/7/api/) | - | -
 - | - | cathexis | [EL](http://docs.oracle.com/javaee/7/api/javax/el/package-summary.html) | - | Glassfish
-- | - | -
 - | - | - | [Faces](http://docs.oracle.com/javaee/7/api/javax/faces/package-frame.html) | - | -
-- 
+
 [More](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition) content needs to be added. Contributions welcome.
