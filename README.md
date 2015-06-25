@@ -1,4 +1,4 @@
-##### A list of core technologies vs a list of enterprise technologies
+###### List of core technologies vs a list of enterprise technologies
 
 Java SE (Core Developer Technologies) | Examples | Frameworks | Java EE (Enterprise Developer Technologies) | Examples | Frameworks
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
